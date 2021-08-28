@@ -152,7 +152,6 @@ export default {
 			}
 		}
 	},
-	"version": 1,
 	"fonts": {
 		"Catamaran": {
 			"family": "Catamaran",
@@ -172,5 +171,6 @@ export default {
 				]
 			}
 		}
-	}
+	},
+	"version": 2
 }

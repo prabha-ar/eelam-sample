@@ -47,7 +47,7 @@ export default (() => {
 			grid-auto-flow="2"
 			margin="0px 20px 0 20px"
 		>
-			<StackItem lg-width="50%" sm-width="100%" width="25%">
+			<StackItem lg-width="50%" sm-width="100%" width="30%">
 				<Override
 					slot="StackItemContent"
 					flex-direction="column"
@@ -72,7 +72,7 @@ export default (() => {
 				</Text>
 				<Components.QuarklycommunityKitAudio src="https://prod.store.digiboxx.com:9000/0b95d9fc0015469d/456825_2008-1.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=aazxcdklmnghfg%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T191923Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe2901e56fc9dc47cad307e6129134b260ec822e38c4637793e6f2efde96af4d" padding="20px 0px 0px 0px" />
 			</StackItem>
-			<StackItem lg-width="50%" sm-width="100%" width="25%">
+			<StackItem lg-width="50%" sm-width="100%" width="30%">
 				<Override
 					slot="StackItemContent"
 					flex-direction="column"
@@ -104,7 +104,7 @@ export default (() => {
 				</Text>
 				<Components.QuarklycommunityKitAudio src="https://prod.store.digiboxx.com:9000/0b95d9fc0015469d/456825_2008-1.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=aazxcdklmnghfg%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T191923Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe2901e56fc9dc47cad307e6129134b260ec822e38c4637793e6f2efde96af4d" padding="20px 0px 0px 0px" />
 			</StackItem>
-			<StackItem lg-width="50%" sm-width="100%" width="25%">
+			<StackItem lg-width="50%" sm-width="100%" width="30%">
 				<Override
 					slot="StackItemContent"
 					flex-direction="column"
