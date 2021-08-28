@@ -137,29 +137,7 @@ export default (() => {
 				<Components.QuarklycommunityKitAudio src="https://prod.store.digiboxx.com:9000/0b95d9fc0015469d/456825_2008-1.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=aazxcdklmnghfg%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T191923Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe2901e56fc9dc47cad307e6129134b260ec822e38c4637793e6f2efde96af4d" padding="20px 0px 0px 0px" />
 			</StackItem>
 		</Stack>
-		<Link
-			font={"--capture"}
-			font-size={"10px"}
-			position={"fixed"}
-			bottom={"12px"}
-			right={"12px"}
-			z-index={"4"}
-			border-radius={"4px"}
-			padding={"5px 12px 4px"}
-			background-color={"--dark"}
-			opacity={"0.6"}
-			hover-opacity={"1"}
-			color={"--light"}
-			cursor={"pointer"}
-			transition={"--opacityOut"}
-			quarkly-title={"Badge"}
-			text-decoration-line={"initial"}
-			href={"https://quarkly.io/"}
-			target={"_blank"}
-		>
-			Made on Quarkly
-		</Link>
-		<RawHtml>
+				<RawHtml>
 			<style place={"endOfHead"} rawKey={"612510d129a0a1001e6c5807"}>
 				{":root {\n  box-sizing: border-box;\n}\n\n* {\n  box-sizing: inherit;\n}"}
 			</style>
